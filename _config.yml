@@ -1,0 +1,8 @@
+title: Wp-analytify
+description: Analytify ReShaping Google Analytics for WordPress
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
